@@ -6,7 +6,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 # Web App Title
 st.markdown('''
-# **2019 Lok Sabha Elections**
+# **Data Analysis Report**
 ''')
 
 # Upload CSV data
